@@ -1,3 +1,4 @@
+![logo](https://github.com/Gul-Fatima/Gul-Fatima/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Gul Fatima</h1>
 <h3 align="center">A passionate software engineering student from Pakistan</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://i.pinimg.com/564x/ca/92/b2/ca92b26b04cb80893062a181a3e9f8aa.jpg" >
