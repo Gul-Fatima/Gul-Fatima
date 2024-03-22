@@ -5,6 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gul-fatima&label=Profile%20views&color=0e75b6&style=flat" alt="gul-fatima" /> </p>
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/gul-fatima-9235b12b4/">LinkedIn</a>
+
+
 <p align="left">
 </p>
 
