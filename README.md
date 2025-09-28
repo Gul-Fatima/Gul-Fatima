@@ -1,5 +1,3 @@
-![logo](https://github.com/Gul-Fatima/Gul-Fatima/blob/main/1.png)
-
 <p align="center">
     <img src="https://github.com/Gul-Fatima/Gul-Fatima/blob/main/1.png" alt="logo" width="150" />
 </p>
