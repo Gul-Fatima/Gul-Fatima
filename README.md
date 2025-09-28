@@ -1,4 +1,4 @@
-<img src="https://github.com/Gul-Fatima/Gul-Fatima/blob/main/1.png" alt="logo" width="150" />
+![logo](https://github.com/Gul-Fatima/Gul-Fatima/blob/main/1.png)
 
 <h1 align="center">Hi 👋, I'm Gul Fatima</h1>
 <h3 align="center">A passionate Software Engineering student from Pakistan 🚀</h3>
